@@ -1,0 +1,14 @@
+{
+  "name": "dsh-superagent-me",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Subtract function example",
+  "type": "module",
+  "main": "subtract.js",
+  "exports": {
+    ".": "./subtract.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
