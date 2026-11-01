@@ -1,0 +1,14 @@
+{
+  "name": "dsh-superagent-me",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Add function example",
+  "type": "module",
+  "main": "add.js",
+  "exports": {
+    ".": "./add.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
